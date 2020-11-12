@@ -14,11 +14,13 @@ This repository is for storing notes on my Python learning experience, I been ta
 - [08. Working with Files](#)
 - [09. Scripting in Python](#)
 - [10. Error Handling, Debugging and Testing](#)
-- [11. Web Development Introduction](#)
-- [12. Data Science Introduction](#)
-- [13. Python on DevOps](#)
-- [14. Python on Network Automation](#)
-- [15. Description of Python Apps](#)
+- [11. Regular Expressions](#)
+- [12. Web Development Introduction](#)
+- [13. Data Science Introduction](#)
+- [14. Python on DevOps](#)
+- [15. Python on Network Automation](#)
+- [16. Description of Python Apps](#)
+
 
 
 
