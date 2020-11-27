@@ -1,4 +1,3 @@
-"hello word" 
 Output redirection <ipykernel.iostream.OutStream object at 0x0000021F77B05548>
 Help on built-in module sys:
 
@@ -342,7 +341,7 @@ DATA
     ps3 = 'Out: '
     stderr = <ipykernel.iostream.OutStream object>
     stdin = <_io.TextIOWrapper name='<stdin>' mode='r' encoding='cp1252'>
-    stdout = <_io.TextIOWrapper name='files\\working\\text.txt' mode='a' e...
+    stdout = <_io.TextIOWrapper name='files\\working\\newfile.txt' mode='a...
     thread_info = sys.thread_info(name='nt', lock=None, version=None)
     version = '3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (...
     version_info = sys.version_info(major=3, minor=7, micro=4, releaseleve...
